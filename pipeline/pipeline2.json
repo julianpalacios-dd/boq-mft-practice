@@ -20,9 +20,7 @@
 						"storeSettings": {
 							"type": "SftpReadSettings",
 							"recursive": false,
-							"modifiedDatetimeStart": "2021-05-27T15:20:00.000Z",
-							"modifiedDatetimeEnd": "2021-05-28T15:20:00.000Z",
-							"wildcardFileName": "BSB Directory Update *.csv",
+							"wildcardFileName": "BSB Directory Update 02Apr20-01May20.csv",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
