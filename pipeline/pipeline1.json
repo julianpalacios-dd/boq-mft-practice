@@ -20,6 +20,7 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
+							"wildcardFileName": "example.ctl",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
@@ -78,6 +79,7 @@
 					"storeSettings": {
 						"type": "AzureBlobStorageReadSettings",
 						"recursive": true,
+						"wildcardFileName": "example.ctl",
 						"enablePartitionDiscovery": false
 					}
 				}
